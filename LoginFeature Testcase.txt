@@ -1,0 +1,42 @@
+Sr.no     Test Cases                                                     negative/Pasitive TestCase
+
+1.       Verify if a user will be able to login a vaid username               Positive
+          and valid password and click on login button.
+
+2.       Verify if a user cannot login with a invalid username                 Negative
+          and valid password and click on login button.
+
+3.       Verify if a user cannot login with a valid username                   Negative
+          and invalid password and click on login button.
+
+4.       Verify if a user cannot login with a invalid username                 Nagative
+          and invalid password and click on login button.
+
+5.       Verify if a user cannot login with a username in Uppercase            Nagative
+          but valid password and click on login button.
+
+6.       Verify if a user cannot login with a valid username                   Nagative
+          but password in Uppercase and click on login button.
+
+7.       Verify if a user cannot login with username field blank               Nagative
+          and valid password and click on login button.
+
+8.       Verify if a user cannot login with a valid username and               Nagative
+          password field blank and click on login button.
+
+9.       Verify if a user cannot login with blank username and                 Nagative
+          password field and click on login button.
+
+10.       Verify if a user cannot login with some space before                 Nagative
+          userbame and password and click on login button.
+
+11.      Verify if a user cannot login with some space after                   Nagative
+          username and password and click on login button.
+
+12.      Verify if a user can login with a valid username and                  Nagative
+          password and click on login button multiple times.
+
+13.      verify the messages for invalid login.                                Positive
+
+14.      verify if the data in password field is either visible as             Positive
+           asterisk or bullet sign.
